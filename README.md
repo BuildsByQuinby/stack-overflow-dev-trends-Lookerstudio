@@ -1,70 +1,71 @@
-📊 Stack Overflow Developer Trends Dashboard
+# Stack Overflow Developer Trends Analysis (Looker Studio)
 
-A Looker Studio Data Publication
+This project analyzes trends in modern software development using Stack Overflow Developer Survey data.  
+Interactive dashboards were created in Google Looker Studio to explore programming languages, databases, cloud platforms, and web frameworks.
 
-An interactive data publication analyzing the Stack Overflow Developer Survey to uncover trends in programming languages, databases, cloud platforms, and web frameworks. This project transforms raw survey data into clear, visual insights about the modern developer ecosystem.
+---
 
-🔍 About This Project
+## Dataset
 
-The Stack Overflow Developer Survey is one of the largest annual datasets capturing the real-world tools, preferences, and experience levels of developers globally.
-This publication presents curated visual dashboards designed to answer key questions such as:
+Source: Stack Overflow Developer Survey  
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/HLOosvsPgIwt5dgOOh1RSg/survey-data-updated.csv  
 
-What programming languages are most widely used today?
+The dataset is loaded into Looker Studio and used to generate visual dashboards summarizing developer tool usage and preferences.
 
-Which databases dominate modern development?
+---
 
-What platforms are developers actually building on?
+## Objectives
 
-Which web frameworks are most desired — and by who?
+- Identify the most widely used programming languages
+- Determine the most popular database technologies
+- Analyze cloud platform adoption among developers
+- Examine desired web frameworks by developer experience level
+- Create clean, interactive dashboards for visual analysis
 
-All dashboards were built using Google Looker Studio and structured to support exploratory analysis and storytelling.
+---
 
-📈 Published Dashboards
-Top Programming Languages Used
+## Visualizations
 
-Top Databases Used
+### Top 10 Programming Languages Used
+![Top Languages](image/Top_10_Languages_Used.png)
 
-Cloud & Platform Adoption
+---
 
-Most Desired Web Frameworks by Developer Experience
+### Top 10 Databases Used
+![Top Databases](image/Top_10_Databases_Used.png)
 
-🧠 Key Findings
+---
 
-JavaScript-based stacks dominate modern development workflows
+### Top 10 Cloud Platforms Used by Developers
+![Top Platforms](image/Top_10_Platforms_Used_by_Devs.png)
 
-PostgreSQL and MySQL remain the most widely adopted databases
+---
 
-AWS and Azure continue to lead cloud platform adoption
+### Top 10 Desired Web Frameworks by Developer Experience
+![Top Frameworks](image/Top_10_Desired_Web_Frams_By_DevExp.png)
 
-React, ASP.NET Core, and Spring Boot are the most desired web frameworks
+---
 
-More experienced developers gravitate toward enterprise and scalable frameworks
+## Key Findings
 
-🛠 Tools & Technology
-Tool	Purpose
-Google Looker Studio	Interactive dashboard creation
-Stack Overflow Survey Data	Primary data source
-Data Wrangling & Visualization	Analysis & storytelling
-GitHub	Publication hosting
-📁 Data Source
+- JavaScript-based technologies dominate modern development stacks
+- PostgreSQL and MySQL remain the most widely used databases
+- AWS and Microsoft Azure are the leading cloud platforms
+- React, ASP.NET Core, and Spring Boot are the most desired web frameworks
+- More experienced developers tend to prefer enterprise-grade and scalable frameworks
 
-Stack Overflow Developer Survey (Public Dataset)
-Used for educational and analytical purposes.
+---
 
-📌 Use Case
+## Tools & Technologies
 
-This project demonstrates:
+- Google Looker Studio – Dashboard creation and visualization  
+- Stack Overflow Developer Survey – Primary dataset  
+- Data Visualization – Trend and insight analysis  
+- GitHub – Portfolio publication
 
-Data visualization & dashboard design
+---
 
-Exploratory data analysis
+## Author
 
-Analytical storytelling
-
-Professional portfolio documentation
-
-👤 Author
-
-BuildsByQuinby
-Data Analytics & Visualization Portfolio
-GitHub: https://github.com/BuildsByQuinby
+BuildsByQuinby  
+https://github.com/BuildsByQuinby
