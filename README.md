@@ -26,19 +26,22 @@ Due to file size limits, the raw dataset is not included in this repository.
 
 ## Dashboards & Visualizations
 
+## Dashboards & Visualizations
+
 | Analysis | Preview |
 |--------|--------|
-| Respondents by Age | ![Respondents by Age](Respondents_Age_Pie.png) |
-| Respondent Count by Country | ![Respondent Count by Country](Geo_By_Country.png) |
-| Education Level Distribution | ![Education Distribution](Dist_by_Education.png) |
-| Age Classified by Education Level | ![Age vs Education](Age_Education_byCountAndGroup.png) |
-| Top 10 Languages Used | ![Top Languages Used](Top_Programming_Lang_Used_by_Devs.png) |
-| Top 10 Databases Used | ![Top Databases Used](Top_10_Databases_Used.png) |
-| Top 10 Platforms Used | ![Top Platforms Used](Top_10_Platforms_Used_by_Devs.png) |
-| Top 10 Languages Desired Next Year | ![Languages Desired](Top_Lang_Desired_NextYr.png) |
-| Top 10 Databases Desired Next Year | ![Databases Desired](Top_Databases_Desired.png) |
-| Top 10 Desired Platforms | ![Desired Platforms](Top_10_Desired_Platforms.png) |
-| Top 10 Desired Web Frameworks | ![Desired Web Frameworks](Top_10_Desired_Web_Frams_NextYr.png) |
+| Respondents by Age | ![Respondents by Age](image/Respondents_Age_Pie.png) |
+| Respondent Count by Country | ![Respondent Count by Country](image/Geo_By_Country.png) |
+| Education Level Distribution | ![Education Distribution](image/Dist_by_Education.png) |
+| Age Classified by Education Level | ![Age vs Education](image/Age_Education_byCountAndGroup.png) |
+| Top 10 Languages Used | ![Top Languages Used](image/Top_10_Languages_Used.png) |
+| Top 10 Databases Used | ![Top Databases Used](image/Top_10_Databases_Used.png) |
+| Top 10 Platforms Used | ![Top Platforms Used](image/Top_10_Platforms_Used_by_Devs.png) |
+| Top 10 Languages Desired Next Year | ![Languages Desired](image/Top_Lang_Desired_NextYr.png) |
+| Top 10 Databases Desired Next Year | ![Databases Desired](image/Top_Databases_Desired.png) |
+| Top 10 Desired Platforms | ![Desired Platforms](image/Top_10_Desired_Platforms.png) |
+| Top 10 Desired Web Frameworks | ![Desired Web Frameworks](image/Top_10_Desired_Web_Frams_NextYr.png) |
+
 
 ---
 
